@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -40,3 +42,11 @@ int main(){
   vector<bool> utilitzats(n,false);
   completa(i, v, utilitzats);
 }
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:51:57
+ * 
+ */

@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -43,3 +45,11 @@ int main(){
 	reinas(v, 0);
 	
 }
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:51:57
+ * 
+ */

@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -39,3 +41,11 @@ if(busca(mapa, mapa2,posx,posy)) cout << "yes" << endl;
 else cout << "no" << endl;
 
 }
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:51:57
+ * 
+ */

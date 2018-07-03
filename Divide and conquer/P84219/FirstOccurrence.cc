@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -29,3 +31,12 @@ int first_occurrence(double x, const vector<double>& v){
     return cerca(x,v,e,d);
 
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:51:57
+ * 
+ */

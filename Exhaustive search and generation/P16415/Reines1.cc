@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -36,3 +38,12 @@ int main(){
   recursiva(i,T, cont);
   cout << cont << endl;  
 }
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:51:57
+ * 
+ */

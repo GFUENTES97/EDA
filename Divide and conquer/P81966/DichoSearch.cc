@@ -1,3 +1,5 @@
+//#include GFUENTES97 
+
 #include <iostream>
 #include <vector>
 
@@ -12,3 +14,12 @@ int position(double x, const vector<double>& v, int left, int right){
     if(v[m] < x) return position(x,v,m,right);
 }
 
+
+
+/* 
+ * 
+ *  last update: 
+ * 
+ *  03/07/2018 12:51:57
+ * 
+ */
