@@ -20,6 +20,6 @@ int position(double x, const vector<double>& v, int left, int right){
  * 
  *  last update: 
  * 
- *  03/07/2018 12:51:57
+ *  03/07/2018 14:05:30
  * 
  */

@@ -37,6 +37,6 @@ int first_occurrence(double x, const vector<double>& v){
  * 
  *  last update: 
  * 
- *  03/07/2018 12:51:57
+ *  03/07/2018 14:05:30
  * 
  */
